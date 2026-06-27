@@ -1,0 +1,6 @@
+{
+  "name": "Almanca Kelime Defteri",
+  "description": "Okuduğunuz kitaplardaki Almanca sözcükleri ve Türkçe karşılıklarını kaydedip alfabetik olarak listeleyebileceğiniz ve arama yapabileceğiniz kelime defteri uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
